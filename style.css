@@ -66,13 +66,30 @@ h2
 #hero2
 
 {
+    margin-top: 300px;
     clear: both;
     border-top: 300px;
     height: 300px;
-    background-color: #e5a205;
+    background-color: #ddba6740;
 }
+
 
 #hero2img
 {
     float: right;
+}
+
+#hero3
+{
+    margin-top: 300px;
+    clear: both;
+    border-top: 300px;
+    height: 300px;
+    background-color: #ddba6740;
+}
+
+#hero3img
+{
+
+    float:left;
 }
