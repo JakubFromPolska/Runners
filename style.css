@@ -5,8 +5,17 @@ h1
 }
 
 
+html
+{
+    padding: 2%;
+   
+}
 
+p
+{
 
+    font-family: Georgia, 'Times New Roman', Times, serif   ;
+}
 
 .carousel-inner
 {
@@ -51,9 +60,15 @@ h1
 
 h2
 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     float: right;
     justify-content: right;
     text-align: right;
+}
+
+h3
+{
+    text-align: center;
 }
 
 #hero1
@@ -62,6 +77,7 @@ h2
     height: 300px;
     background-color: #ddba6740;
     clear: both;
+    
 }
 #hero2
 
@@ -77,6 +93,7 @@ h2
 #hero2img
 {
     float: right;
+    margin-right: 50px;
 }
 
 #hero3
@@ -92,4 +109,45 @@ h2
 {
 
     float:left;
+    
+    
+}
+
+.card-group
+{
+   
+    
+    float: center;
+}
+
+#offer
+{
+    float:  center;
+    clear: both;
+    margin-bottom: 10px;
+    margin-top: 320px;
+    background-color: #ddba6740;
+    
+}
+
+button
+{
+    background-color: rgb(255, 68, 68);
+    padding: 2%;
+    width: 20%;
+    float: right;
+    border-radius: 70%;
+}
+#footer
+ {
+    background: #ddba6740;
+    border-radius: 10%;
+   
+}
+#footer4
+ {
+    background: #ddba6740;
+    border-radius: 10%;
+    
+   
 }
